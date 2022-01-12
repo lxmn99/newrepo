@@ -2,4 +2,5 @@ firstfile
 modified in loc not
 modified in local
 mod for 3rd commit
-two remote repo added
+two remote repo adde
+d
