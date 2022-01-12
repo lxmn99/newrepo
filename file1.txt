@@ -2,4 +2,3 @@ firstfile
 modified in loc not
 modified in local
 mod for 3rd commit
->>>>>>> 5ef144b3d79a58e30c270598662a6ab9fd335509
